@@ -1,0 +1,26 @@
+# AI Agent Dependencies
+# Python 3.10+ required
+
+# Core HTTP client for API calls
+httpx>=0.25.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Beautiful terminal output
+rich>=13.7.0
+
+# Type hints support (for Python < 3.10)
+typing-extensions>=4.9.0
+
+# Optional: For advanced async support
+anyio>=4.2.0
+
+# Build tools
+pyinstaller>=6.0.0
+
+# Development dependencies (uncomment if needed)
+# pytest>=7.4.0
+# pytest-asyncio>=0.23.0
+# black>=24.0.0
+# ruff>=0.1.0
